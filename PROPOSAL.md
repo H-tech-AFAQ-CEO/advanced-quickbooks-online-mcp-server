@@ -1,0 +1,2 @@
+QBO MCP — I will build a secure, production-ready TypeScript MCP server with QuickBooks Online OAuth, multi-company isolation, reusable services, permissions, audit logging, and the agreed accounting tools.
+QBO MCP — I will extend and validate the existing foundation in phases, covering sandbox testing, reporting, reconciliation, financial intelligence, AI-client connectivity, documentation, deployment, and full source-code ownership transfer.
